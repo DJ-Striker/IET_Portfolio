@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IET -Portfolio</string>
+    <string name="name">Name :-</string>
+    <string name="contact_no">Contact No. :-</string>
+    <string name="course">Course :-</string>
+    <string name="reg_no">Reg No. :-</string>
+    <string name="email">Email :-</string>
+    <string name="mayukh_saleel">Mayukh Saleel</string>
+    <string name="_20bce2591">20BCE2591</string>
+    <string name="cse_core">CSE Core</string>
+    <string name="_7356588073">7356588073</string>
+    <string name="mayukhsaleel_gmail_com">mayukhsaleel@gmail,com</string>
+
+
+</resources>
